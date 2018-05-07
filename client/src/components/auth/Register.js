@@ -12,7 +12,7 @@ class Register extends Component {
     };
 
     this.onChange = this.onChange.bind(this);
-    this.onSubmit = this.onChange.bind(this);
+    this.onSubmit = this.onSubmit.bind(this);
   }
 
   onChange(e) {
@@ -82,10 +82,8 @@ class Register extends Component {
                     onChange={this.onChange}
                   />
                 </div>
-                <input
-                  type="submit"
-                  className="btn btn-info btn-block mt-4"
-                />
+                <input type="submit" className="btn btn-info btn-block mt-4" />
+
               </form>
             </div>
           </div>

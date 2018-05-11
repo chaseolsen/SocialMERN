@@ -8,9 +8,8 @@ https://www.linkedin.com/in/chaseolsen/
 * NodeJS
 * Express (to create node server)
 * ReactJS
-* Redux
+* Redux (for application state managment, sorry if it's a mess, Redux gets me sometimes)
 * Webpack (to transpile ES6 and all js files into client.min.js)
-* Babel (to handle ES6 code with webpack)
 
 ## Project Overview
 

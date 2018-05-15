@@ -35,7 +35,7 @@ git clone https://github.com/chaseolsen/SocialMERN.git
 ```
 2. Enter Project
 ```
-cd trialproject
+cd SocialMERN
 ```
 
 3. Install Dependencies (Do this inside root directory as well as Client directory, I've two sperate Node_Modules for client/server)

@@ -30,7 +30,7 @@ Here is basic file structure of project
     └── README.md
 
 
-## How to Run Everything (since i've yet to finish and host to heroku yet)
+## How to Run Everything (You'll need DB creds from me)
 (be sure node is installed)
 
 1. Clone Project

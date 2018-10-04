@@ -2,7 +2,7 @@
 
 HOSTED HERE: https://fast-ridge-91764.herokuapp.com/login
 
-Since i'm using a DB. Feel free to contact me relating config.js and DB credentials. Otherwise just go to the hosted Heroku page and use this code as reference of what's going on.
+Since i'm using a DB. Feel free to contact me relating config.js and DB credentials. Otherwise just go to the hosted Heroku page and use this code as reference of what's going on. Nothing to crazy.
 
 Find me on Linkedin!
 https://www.linkedin.com/in/chaseolsen/

@@ -7,6 +7,8 @@ Since i'm using a DB. Feel free to contact me relating config.js and DB credenti
 
 Find me on Linkedin!
 https://www.linkedin.com/in/chaseolsen/
+Or checkout my personal page!
+https://webdevchase.com/
 
 ## Technologies Used
 
